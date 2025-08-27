@@ -1,6 +1,6 @@
 <template>
 <Header/>
-<h1>Olá Mundo!</h1>
+<h1>Olá Alunos!!!</h1>
 <PrimeiroComponente/>
 <LifeCycle/>
 <Pessoa/>
